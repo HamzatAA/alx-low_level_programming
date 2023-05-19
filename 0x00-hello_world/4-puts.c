@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
 * main - prints programing is like a multilingual puzzle.
-* return 0 if success.
+* Return: 0 if success.
 */
 int main(void)
 {
