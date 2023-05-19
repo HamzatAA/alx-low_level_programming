@@ -1,5 +1,9 @@
 #include <stdio.h>
-int main()
+/**
+* main - prints sizeof.
+* Result: 0 if success.
+*/
+int main(void)
 {
 	int i;
 	char c;
