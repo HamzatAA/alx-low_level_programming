@@ -2,7 +2,7 @@
 
 /**
  * main - checks for a digit
- *
+ * @c: char to check
  * Return: 1 if success
 */
 
